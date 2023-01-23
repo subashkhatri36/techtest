@@ -1,0 +1,14 @@
+const String noItemFound = 'No Items Found !';
+const String newDiaryTitle = 'New Diary';
+const String addPhotoToSiteDiary = 'Add Photo To Site Diary';
+const String comments = 'Comments';
+const String addToSiteDiary = 'Add to site diary';
+const String addPhoto = ' Add a photo';
+const String details = 'Details';
+const String selectArea = 'Select Area';
+const String taskCategory = 'Task Category';
+const String tags = 'Tags';
+const String linkToExistingEvent = 'Link to existing event?';
+const String selectEvent = 'Select an event';
+const String next = 'Next';
+const String includeInPhotoGallery = 'Include in photo gallery';
